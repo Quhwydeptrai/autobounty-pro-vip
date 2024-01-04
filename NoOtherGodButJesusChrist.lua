@@ -45,7 +45,7 @@ getgenv().Setting = {
             ["Skills"] = {
                 ["Z"] = {
                     ["Enable"] = true,
-                    ["HoldTime"] = 0.0,
+                    ["HoldTime"] = 1.5,
                 },
                [ "X"] = {
                     ["Enable"] = true,
